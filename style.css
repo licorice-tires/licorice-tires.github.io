@@ -8,3 +8,8 @@ p{
   padding-right: 50px;
   text-align: justify;
 }
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
